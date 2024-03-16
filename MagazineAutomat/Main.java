@@ -8,6 +8,7 @@ public class Main {
         Product product3 = new BottelWater("3", 3 ,3);
         Product product4 = new BottelWater("4", 4 ,4);
         Product product5 = new BottelWater("5", 5 ,5);
+        
         Product product6 = new HoteDrink("6", 6 ,6, 60);
         Product product7 = new HoteDrink("7", 7 ,7, 70);
         Product product8 = new HoteDrink("8", 8 ,8, 80);
